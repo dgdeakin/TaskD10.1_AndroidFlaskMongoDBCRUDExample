@@ -1,5 +1,6 @@
 # Simple sample app to connect to backend app with MongoDB Atlas
 (Informative APP only on working with Backend Flask APP with MongoDB Atlas and Android App)
+Backend code here: https://github.com/dgdeakin/DTask10_1_MongoDBAtlas
 
 # To run the code:
 - Just clone or download the project.
@@ -7,9 +8,9 @@
 
 # Output:
 <div style="display: flex; gap: 10px;">
-  <img src="screenshots/adding_note.png" width="100">
-  <img src="screenshots/new_added_note.png" width="100">
-  <img src="screenshots/delete_note.png" width="100">
+  <img src="screenshots/adding_note.png" width="200">
+  <img src="screenshots/new_added_note.png" width="200">
+  <img src="screenshots/delete_note.png" width="200">
 </div>
 
 
